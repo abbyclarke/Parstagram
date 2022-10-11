@@ -23,8 +23,10 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-Creating user, posting a picture, scrolling through last 20 posts
-<img src='http://g.recordit.co/Zcg0xK8q5W.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+Creating user, posting a picture, scrolling through last 20 posts:
+<img src='http://g.recordit.co/roDJl8N5Ih.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
 
 Creating user and logging in:
 <img src='http://g.recordit.co/SeyikOGL5q.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
